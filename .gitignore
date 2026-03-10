@@ -1,0 +1,22 @@
+# V language
+*.vbin
+*.c
+*.h
+*.o
+
+# Compiled binary
+nu_plugin_v_example
+
+# Build output
+/out/
+/build/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
